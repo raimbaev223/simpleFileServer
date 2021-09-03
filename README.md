@@ -1,4 +1,6 @@
 # Simple File Server
+## express js, redis, mongoDB 
+
 
 POST http://localhost:3000/api/upload
 body 
